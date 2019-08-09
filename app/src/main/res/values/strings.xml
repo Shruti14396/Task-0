@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 0</string>
+
+    <string-array name="occupation">
+        <item>Doctor</item>
+        <item>Engineer</item>
+        <item>Teacher</item>
+        <item>Chartered Accountant</item>
+        <item>Carpenter</item>
+    </string-array>
+</resources>
